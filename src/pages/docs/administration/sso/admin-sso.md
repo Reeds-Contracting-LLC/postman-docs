@@ -21,6 +21,13 @@ contextual_links:
 
 > **[SSO is available on Postman Professional and Enterprise plans.](https://www.postman.com/pricing)**
 
+## Contents
+
+* [Configuring single sign-on](#configuring-single-sign-on)
+* [Edit SSO settings](#edit-sso-settings)
+* [Managing user accounts](#managing-user-accounts)
+* [Next steps](#next-steps)
+
 ## Configuring single sign-on
 
 Only a [Team Admin](/docs/collaborating-in-postman/roles-and-permissions/#team-roles) can configure single sign-on (SSO) for a Postman team.
@@ -82,8 +89,6 @@ This section describes the following topics:
 * [Managing team logins](#managing-team-logins)
 
 * [Removing team access](#removing-team-access)
-
-* [Next steps](#next-steps)
 
 ### Creating end user accounts
 
